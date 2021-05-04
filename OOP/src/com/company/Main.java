@@ -6,7 +6,8 @@ public class Main {
         // write your code here
         Vampire vampire = new Vampire();
 
-        vampire.health = 25;
-        
+        vampire.setHealth(25);
+
+        System.out.println(vampire.getHealth());
     }
 }
