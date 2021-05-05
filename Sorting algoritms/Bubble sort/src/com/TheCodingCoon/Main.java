@@ -3,6 +3,10 @@ package com.TheCodingCoon;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Test");
+        BubbleSortExample bubbleSortExample = new BubbleSortExample();
+        int[] arr = {3, 60, 35, 2, 45, 320, 5};
+
+        bubbleSortExample.bubbleSort(arr);
+
     }
 }
