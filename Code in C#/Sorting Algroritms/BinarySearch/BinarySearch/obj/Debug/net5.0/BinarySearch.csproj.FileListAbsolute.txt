@@ -1,0 +1,16 @@
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csprojAssemblyReference.cache
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+D:\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache
