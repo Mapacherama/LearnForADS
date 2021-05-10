@@ -1,0 +1,16 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\OOPinCSharp.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\OOPinCSharp.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\OOPinCSharp.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\OOPinCSharp.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\OOPinCSharp.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\ref\OOPinCSharp.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\bin\Debug\net5.0\OOPinCSharp.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.csprojAssemblyReference.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\ref\OOPinCSharp.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\OOP\OOPinCSharp\OOPinCSharp\obj\Debug\net5.0\OOPinCSharp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\Hello_World.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\Hello_World.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\Hello_World.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\Hello_World.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\Hello_World.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\ref\Hello_World.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\bin\Debug\net5.0\Hello_World.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.csprojAssemblyReference.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\ref\Hello_World.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Herinstallatie code\Hello_World\Hello_World\obj\Debug\net5.0\Hello_World.genruntimeconfig.cache
