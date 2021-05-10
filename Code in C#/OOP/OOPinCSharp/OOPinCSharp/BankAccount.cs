@@ -27,9 +27,10 @@ namespace OOPinCSharp
 
         private List<Transaction> allTransactions = new List<Transaction>();
 
-        public BankAccount(string name)
+        public BankAccount(string name, decimal intitialBalance)
         {
             this.Owner = name;
+            MakeDeposit(intitialBalance, DateTime.Now, "Starting balance");
             this.Number = accountNumberSeed.ToString();
             accountNumberSeed++;
         }
@@ -57,6 +58,21 @@ namespace OOPinCSharp
             }
             var withdrawal = new Transaction(-amount, date, note);
             allTransactions.Add(withdrawal);
+        }
+
+        public string getAccountHistory()
+        {
+            var report = new StringBuilder();
+
+            report.AppendLine("Date\t\tAmount\tNote");
+            foreach (var item in allTransactions)
+            {
+
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t{item.Notes}");
+
+            }
+
+            return report.ToString();
         }
 
     }
