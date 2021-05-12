@@ -1,0 +1,15 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\anotherQueueExample.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\anotherQueueExample.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\anotherQueueExample.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\anotherQueueExample.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\anotherQueueExample.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\ref\anotherQueueExample.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\bin\Debug\net5.0\anotherQueueExample.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\ref\anotherQueueExample.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\anotherQueueExample\anotherQueueExample\anotherQueueExample\obj\Debug\net5.0\anotherQueueExample.genruntimeconfig.cache

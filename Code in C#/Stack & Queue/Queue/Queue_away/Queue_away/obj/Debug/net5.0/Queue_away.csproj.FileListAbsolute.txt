@@ -1,0 +1,15 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\Queue_away.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\Queue_away.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\Queue_away.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\Queue_away.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\Queue_away.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\ref\Queue_away.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\bin\Debug\net5.0\Queue_away.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\ref\Queue_away.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Stack & Queue\Queue\Queue_away\Queue_away\obj\Debug\net5.0\Queue_away.genruntimeconfig.cache
