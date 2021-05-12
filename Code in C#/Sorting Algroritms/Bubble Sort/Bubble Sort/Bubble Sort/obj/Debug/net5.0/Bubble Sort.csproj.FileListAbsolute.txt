@@ -1,0 +1,16 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\Bubble Sort.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\Bubble Sort.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\Bubble Sort.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\Bubble Sort.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\Bubble Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\ref\Bubble Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\bin\Debug\net5.0\Bubble Sort.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.csprojAssemblyReference.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\ref\Bubble Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Bubble Sort\Bubble Sort\Bubble Sort\obj\Debug\net5.0\Bubble Sort.genruntimeconfig.cache
