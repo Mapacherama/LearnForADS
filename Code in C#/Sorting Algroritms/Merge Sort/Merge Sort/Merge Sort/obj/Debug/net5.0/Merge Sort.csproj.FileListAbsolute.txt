@@ -1,0 +1,16 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\Merge Sort.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\Merge Sort.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\Merge Sort.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\Merge Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\ref\Merge Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\bin\Debug\net5.0\Merge Sort.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.csprojAssemblyReference.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\ref\Merge Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort\Merge Sort\Merge Sort\obj\Debug\net5.0\Merge Sort.genruntimeconfig.cache

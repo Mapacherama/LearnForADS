@@ -1,0 +1,16 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\MergeSortAttemptDos.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\MergeSortAttemptDos.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\MergeSortAttemptDos.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\MergeSortAttemptDos.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\MergeSortAttemptDos.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\ref\MergeSortAttemptDos.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\bin\Debug\net5.0\MergeSortAttemptDos.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.csprojAssemblyReference.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\ref\MergeSortAttemptDos.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Merge Sort #2\MergeSortAttemptDos\MergeSortAttemptDos\obj\Debug\net5.0\MergeSortAttemptDos.genruntimeconfig.cache
