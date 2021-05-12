@@ -1,0 +1,15 @@
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\Selection_Sort.exe
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\Selection_Sort.deps.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\Selection_Sort.runtimeconfig.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\Selection_Sort.runtimeconfig.dev.json
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\Selection_Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\ref\Selection_Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\bin\Debug\net5.0\Selection_Sort.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.GeneratedMSBuildEditorConfig.editorconfig
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.AssemblyInfoInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.AssemblyInfo.cs
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.csproj.CoreCompileInputs.cache
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\ref\Selection_Sort.dll
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.pdb
+E:\HBO-ICT schoolwerk\Leren voor ADS\Code\LearnForADS\Code in C#\Sorting Algroritms\Selection Sort\Selection_Sort\Selection_Sort\obj\Debug\net5.0\Selection_Sort.genruntimeconfig.cache
